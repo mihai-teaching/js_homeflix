@@ -552,6 +552,7 @@ html {
   width: 100%;
   overflow-y: scroll;
   /* [3] */
+  min-width: 450px;
   min-height: 100%;
   /* [4] */
   color: #222222;
@@ -1572,7 +1573,7 @@ h3,
 
 .b-list {
   margin-left: 2.85714rem;
-  margin-bottom: 1.42857rem;
+  margin-bottom: 2.85714rem;
   font-size: 1.57143rem; }
 
 .b-list_li:not(:last-child) {
